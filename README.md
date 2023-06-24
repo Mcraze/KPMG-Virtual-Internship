@@ -1,4 +1,4 @@
-# KPMG-Virtual-Internship
+# KPMG Virtual Internship
 Softwares Used: Google Colab | Python Pandas | Microsoft Excel | Tableau
 
 Questions to Answer using Visualization:
