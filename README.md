@@ -8,4 +8,4 @@ Questions to Answer using Visualization:
 - What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 ## Dashboard
-![image](https://github.com/Mcraze/KPMG-Virtual-Internship/assets/84672998/348b7e37-833b-4b2b-9c5e-43a73e002619)
+![image](https://github.com/Mcraze/KPMG-Virtual-Internship/assets/84672998/9f4e4d6d-41f6-4a68-8377-9d8e40bd4653)
